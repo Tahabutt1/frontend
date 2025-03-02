@@ -276,7 +276,7 @@ function App() {
               <li className="service-item">
                 <div className="service-icon-box">
                   <img
-                    src="./assets/images/cv-icon.png"
+                    src="/assets/images/cv-icon.png"
                     alt="Computer Vision"
                     width="40"
                   />
