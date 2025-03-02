@@ -51,7 +51,7 @@ function App() {
             }}
           >
             <img
-              src="./assets/images/cv2.jpg"
+              src="/assets/images/cv2.jpg"
               alt="Muhammad Taha Butt"
               width="80"
               style={{ borderRadius: "50%" }}
@@ -236,7 +236,7 @@ function App() {
               <li className="service-item">
                 <div className="service-icon-box">
                   <img
-                    src="./ai-icon.png"
+                    src="./assets/images/ai-icon.png"
                     alt="AI & Machine Learning"
                     width="40"
                   />
