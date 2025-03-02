@@ -236,7 +236,7 @@ function App() {
               <li className="service-item">
                 <div className="service-icon-box">
                   <img
-                    src="./assets/images/ai-icon.png"
+                    src="./ai-icon.png"
                     alt="AI & Machine Learning"
                     width="40"
                   />
