@@ -51,7 +51,7 @@ function App() {
             }}
           >
             <img
-              src="/cv2.jpg"
+              src="/cv.jpg"
               alt="Muhammad Taha Butt"
               width="80"
               style={{ borderRadius: "50%" }}
