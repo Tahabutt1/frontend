@@ -236,7 +236,7 @@ function App() {
               <li className="service-item">
                 <div className="service-icon-box">
                   <img
-                    src="./assets/images/ai-icon.png"
+                    src="/assets/images/ai-icon.png"
                     alt="AI & Machine Learning"
                     width="40"
                   />
@@ -256,7 +256,7 @@ function App() {
               <li className="service-item">
                 <div className="service-icon-box">
                   <img
-                    src="./assets/images/nlp-icon.png"
+                    src="/assets/images/nlp-icon.png"
                     alt="Natural Language Processing"
                     width="40"
                   />
@@ -293,7 +293,7 @@ function App() {
               <li className="service-item">
                 <div className="service-icon-box">
                   <img
-                    src="./assets/images/python-icon.png"
+                    src="/assets/images/python-icon.png"
                     alt="ReactJS & Flask Development"
                     width="40"
                   />
@@ -320,7 +320,7 @@ function App() {
                 <div className="content-card" data-testimonials-item data-id="1">
                   <figure className="testimonials-avatar-box">
                     <img
-                      src="./assets/images/avatar-1.png"
+                      src="/assets/images/avatar-1.png"
                       alt="Abdullah Sarfaraz"
                       width="60"
                       data-testimonials-avatar
@@ -345,7 +345,7 @@ function App() {
                 <div className="content-card" data-testimonials-item data-id="2">
                   <figure className="testimonials-avatar-box">
                     <img
-                      src="./assets/images/avatar-2.png"
+                      src="/assets/images/avatar-2.png"
                       alt="Sophia Williams"
                       width="60"
                       data-testimonials-avatar
@@ -370,7 +370,7 @@ function App() {
                 <div className="content-card" data-testimonials-item data-id="3">
                   <figure className="testimonials-avatar-box">
                     <img
-                      src="./assets/images/avatar-3.png"
+                      src="/assets/images/avatar-3.png"
                       alt="Clara Brown"
                       width="60"
                       data-testimonials-avatar
@@ -396,7 +396,7 @@ function App() {
                 <div className="content-card" data-testimonials-item data-id="4">
                   <figure className="testimonials-avatar-box">
                     <img
-                      src="./assets/images/avatar-4.png"
+                      src="/assets/images/avatar-4.png"
                       alt="Zahoor Anwar"
                       width="60"
                       data-testimonials-avatar
@@ -432,7 +432,7 @@ function App() {
                   <img src="" alt="" width="80" data-modal-img />
                 </figure>
                 <img
-                  src="./assets/images/icon-quote.svg"
+                  src="/assets/images/icon-quote.svg"
                   alt="quote icon"
                 />
               </div>
@@ -451,7 +451,7 @@ function App() {
               <li className="clients-item">
                 <a href="#">
                   <img
-                    src="./assets/images/logo-1-color.png"
+                    src="/assets/images/logo-1-color.png"
                     alt="client logo"
                   />
                 </a>
@@ -459,7 +459,7 @@ function App() {
               <li className="clients-item">
                 <a href="#">
                   <img
-                    src="./assets/images/logo-2-color.png"
+                    src="/assets/images/logo-2-color.png"
                     alt="client logo"
                   />
                 </a>
@@ -467,7 +467,7 @@ function App() {
               <li className="clients-item">
                 <a href="#">
                   <img
-                    src="./assets/images/logo-3-color.png"
+                    src="/assets/images/logo-3-color.png"
                     alt="client logo"
                   />
                 </a>
@@ -475,7 +475,7 @@ function App() {
               <li className="clients-item">
                 <a href="#">
                   <img
-                    src="./assets/images/logo-4-color.png"
+                    src="/assets/images/logo-4-color.png"
                     alt="client logo"
                   />
                 </a>
@@ -483,7 +483,7 @@ function App() {
               <li className="clients-item">
                 <a href="#">
                   <img
-                    src="./assets/images/logo-5-color.png"
+                    src="/assets/images/logo-5-color.png"
                     alt="client logo"
                   />
                 </a>
@@ -491,7 +491,7 @@ function App() {
               <li className="clients-item">
                 <a href="#">
                   <img
-                    src="./assets/images/logo-6-color.png"
+                    src="/assets/images/logo-6-color.png"
                     alt="client logo"
                   />
                 </a>
@@ -717,7 +717,7 @@ function App() {
                       <ion-icon name="eye-outline"></ion-icon>
                     </div>
                     <img
-                      src="./assets/images/chatbot.jpg"
+                      src="/assets/images/chatbot.jpg"
                       alt="AI-Powered Talking Chatbot"
                       loading="lazy"
                     />
@@ -739,7 +739,7 @@ function App() {
                       <ion-icon name="eye-outline"></ion-icon>
                     </div>
                     <img
-                      src="./assets/images/crowd-counting.png"
+                      src="/assets/images/crowd-counting.png"
                       alt="Crowd Counting Model"
                       loading="lazy"
                     />
@@ -759,7 +759,7 @@ function App() {
                       <ion-icon name="eye-outline"></ion-icon>
                     </div>
                     <img
-                      src="./assets/images/bowling-detection.png"
+                      src="/assets/images/bowling-detection.png"
                       alt="Illegal Bowling Detection System"
                       loading="lazy"
                     />
@@ -781,7 +781,7 @@ function App() {
                       <ion-icon name="eye-outline"></ion-icon>
                     </div>
                     <img
-                      src="./assets/images/crowd.jpg"
+                      src="/assets/images/crowd.jpg"
                       alt="Crowd Emotion Detection System"
                       loading="lazy"
                     />
@@ -803,7 +803,7 @@ function App() {
                       <ion-icon name="eye-outline"></ion-icon>
                     </div>
                     <img
-                      src="./assets/images/resume-parser.png"
+                      src="/assets/images/resume-parser.png"
                       alt="Resume Parsing Model"
                       loading="lazy"
                     />
@@ -825,7 +825,7 @@ function App() {
                       <ion-icon name="eye-outline"></ion-icon>
                     </div>
                     <img
-                      src="./assets/images/player-performance.png"
+                      src="/assets/images/player-performance.png"
                       alt="Player Performance Prediction System"
                       loading="lazy"
                     />
@@ -847,7 +847,7 @@ function App() {
                       <ion-icon name="eye-outline"></ion-icon>
                     </div>
                     <img
-                      src="./assets/images/amazon-reviews.png"
+                      src="/assets/images/amazon-reviews.png"
                       alt="Amazon Reviews’ Sentiment Analysis"
                       loading="lazy"
                     />
