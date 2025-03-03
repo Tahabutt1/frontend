@@ -706,6 +706,94 @@ function App() {
             </div>
 
             <ul className="project-list">
+            <li
+                className="project-item active"
+                data-filter-item
+                data-category="reactjs"
+              >
+                <a href="https://pgesmarttech.com/">
+                  <figure className="project-img">
+                    <div className="project-item-icon-box">
+                      <ion-icon name="eye-outline"></ion-icon>
+                    </div>
+                    <img
+                      src="/image.png"
+                      alt="reactjs"
+                      loading="lazy"
+                    />
+                  </figure>
+                  <h3 className="project-title">smarttech</h3>
+                  <p className="project-category">
+                    reactjs
+                  </p>
+                </a>
+              </li>
+              <li
+                className="project-item active"
+                data-filter-item
+                data-category="reactjs"
+              >
+                <a href="https://pangeapay1.vercel.app/">
+                  <figure className="project-img">
+                    <div className="project-item-icon-box">
+                      <ion-icon name="eye-outline"></ion-icon>
+                    </div>
+                    <img
+                      src="/i.png"
+                      alt="reactjs"
+                      loading="lazy"
+                    />
+                  </figure>
+                  <h3 className="project-title">payment-processor</h3>
+                  <p className="project-category">
+                    reactjs
+                  </p>
+                </a>
+              </li>
+              <li
+                className="project-item active"
+                data-filter-item
+                data-category="reactjs"
+              >
+                <a href="https://new-trading-app.vercel.app/dashboard">
+                  <figure className="project-img">
+                    <div className="project-item-icon-box">
+                      <ion-icon name="eye-outline"></ion-icon>
+                    </div>
+                    <img
+                      src="/cl.png"
+                      alt="reactjs"
+                      loading="lazy"
+                    />
+                  </figure>
+                  <h3 className="project-title">bounce-bit</h3>
+                  <p className="project-category">
+                    reactjs
+                  </p>
+                </a>
+              </li>
+              <li
+                className="project-item active"
+                data-filter-item
+                data-category="reactjs"
+              >
+                <a href="https://pge360-ahmad-zafars-projects-0b15c053.vercel.app/">
+                  <figure className="project-img">
+                    <div className="project-item-icon-box">
+                      <ion-icon name="eye-outline"></ion-icon>
+                    </div>
+                    <img
+                      src="/pge360.png"
+                      alt="reactjs"
+                      loading="lazy"
+                    />
+                  </figure>
+                  <h3 className="project-title">pge360</h3>
+                  <p className="project-category">
+                    reactjs
+                  </p>
+                </a>
+              </li>
               <li
                 className="project-item active"
                 data-filter-item
