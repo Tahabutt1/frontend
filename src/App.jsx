@@ -43,15 +43,15 @@ function App() {
             className="avatar-box"
             style={{
               textAlign: "center",
-              border: "2px solid #f4d03f",
+              border: "3px solid #f4d03f",
               borderRadius: "50%",
-              padding: "10px",
+              padding: "1px",
               display: "inline-block",
               boxShadow: "0 4px 8px rgba(0, 0, 0, 0.1)",
             }}
           >
             <img
-              src="/cv.jpg"
+              src="/CV.png"
               alt="Muhammad Taha Butt"
               width="80"
               style={{ borderRadius: "50%" }}
