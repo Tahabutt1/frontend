@@ -569,7 +569,7 @@ function App() {
               </li>
               <li className="timeline-item">
                 <h4 className="h4 timeline-item-title">Freelancer</h4>
-                <span>October 2023 — Present</span>
+                <span>january 2021-October 2023 </span>
                 <p className="timeline-text">
                   I have successfully delivered around 12 Python projects, 4
                   chatbot solutions, and 10 ReactJS projects. Highlights include a
@@ -580,9 +580,9 @@ function App() {
               </li>
               <li className="timeline-item">
                 <h4 className="h4 timeline-item-title">
-                  Intern - Federal Investigation Agency (FIA)
+                  Intern - Pangea Global Enterprises (PGE)
                 </h4>
-                <span>September 2021 — December 2021</span>
+                <span>September 2024 — present</span>
                 <p className="timeline-text">
                   Enhanced decision-making systems by integrating ML models to
                   optimize investigative processes and improve efficiency.
